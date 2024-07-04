@@ -1,0 +1,6 @@
+C:\Users\305-8\source\repos\ShumatbaevMR_01_04\obj\Debug\ShumatbaevMR_01_04.csproj.CoreCompileInputs.cache
+C:\Users\305-8\source\repos\ShumatbaevMR_01_04\bin\Debug\ShumatbaevMR_01_07.exe.config
+C:\Users\305-8\source\repos\ShumatbaevMR_01_04\bin\Debug\ShumatbaevMR_01_07.exe
+C:\Users\305-8\source\repos\ShumatbaevMR_01_04\bin\Debug\ShumatbaevMR_01_07.pdb
+C:\Users\305-8\source\repos\ShumatbaevMR_01_04\obj\Debug\ShumatbaevMR_01_07.exe
+C:\Users\305-8\source\repos\ShumatbaevMR_01_04\obj\Debug\ShumatbaevMR_01_07.pdb
